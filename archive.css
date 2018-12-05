@@ -345,10 +345,10 @@ margin:  15em 72em;
 }
 .slideshow-image {
   position: fixed;
-  top: 5vh;
-  left: 15vw;
-  width: 70vw;
-  height: 90vh;
+  top: 10vh;
+  left: 25vw;
+  width: 52.5vw;
+  height: 78.75vh;
 }
 #bigimage1 {
   cursor: crosshair;
